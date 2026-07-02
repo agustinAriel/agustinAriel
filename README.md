@@ -129,3 +129,7 @@ open_to:
   - Pasantías Frontend
   - Roles Trainee / Junior
   - Proyectos Web de código abierto
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/agustinAriel/agustinAriel/output/github-contribution-grid-snake.svg" alt="GitHub Outline Snake" />
+</div>
