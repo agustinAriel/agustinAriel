@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Ariel%20Barros&reversal=true" alt="Header Banner" />
   
-  <img  src="[https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=730688&width=435&lines=Estudiante+de+Ing.+Inform%C3%A1tica+;Web+Designer+Junior;HTML+%C2%B7+CSS+%C2%B7+JavaScrip;%F0%9F%A7%89](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=730688&center=true&width=435&lines=Estudiante+de+Ing.+Inform%C3%A1tica+;Web+Designer+Junior;HTML+%C2%B7+CSS+%C2%B7+JavaScrip;%F0%9F%A7%89)" alt="Typing Animation" />
+  <img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=730688&width=435&lines=Estudiante+de+Ing.+Inform%C3%A1tica+;Web+Designer+Junior;HTML+%C2%B7+CSS+%C2%B7+JavaScrip;%F0%9F%A7%89](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=730688&center=true&width=435&lines=Estudiante+de+Ing.+Inform%C3%A1tica+;Web+Designer+Junior;HTML+%C2%B7+CSS+%C2%B7+JavaScrip;%F0%9F%A7%89" alt="Typing Animation" />
 
   <>
     <img src="https://img.shields.io/badge/Estudiante-UBA-7C3AED?style=flat-square" alt="Universidad" />
