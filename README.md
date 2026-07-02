@@ -116,6 +116,9 @@ Sitio web personal desarrollado para presentar mis habilidades técnicas, proyec
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=agustinAriel&bg_color=0d1117&color=7c3aed&line=a78bfa&point=ffffff&area=true&hide_border=false&border_color=21262d" alt="Activity Graph" />
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/agustinAriel/agustinAriel/output/github-contribution-grid-snake.svg" alt="GitHub Outline Snake" />
+</div>
 
 ## 🎯 Foco Actual
 
