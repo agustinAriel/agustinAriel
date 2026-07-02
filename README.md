@@ -1,13 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=200&section=header&text=Ariel%20Barros&fontSize=50&fontColor=ffffff" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Ariel%20Barros&reversal=true" alt="Header Banner" />
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&height=40&lines=Estudiante+de+Ing.+Inform%C3%A1tica;Web+Designer+Junior;HTML+%C2%B7+CSS+%C2%B7+JavaScript" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=730688&width=435&lines=Estudiante+de+Ing.+Inform%C3%A1tica+;Web+Designer+Junior;HTML+%C2%B7+CSS+%C2%B7+JavaScrip;%F0%9F%A7%89" alt="Typing Animation" />
 
   <p>
     <img src="https://img.shields.io/badge/Estudiante-UBA-7C3AED?style=flat-square" alt="Universidad" />
     <img src="https://img.shields.io/badge/%F0%9F%93%8D_Ubicaci%C3%B3n-Buenos_Aires,_ARG-4F46E5?style=flat-square" alt="Ubicación" />
-    <img src="https://img.shields.io/github/followers/agustinAriel?label=Seguidores&style=flat-square&color=6366F1" alt="Seguidores" />
-    <img src="https://komarev.com/ghvc/?username=agustinAriel&label=Vistas&color=4F46E5&style=flat-square" alt="Vistas de Perfil" />
   </p>
 
   <p>
@@ -41,7 +39,7 @@ Hola, soy estudiante de Ingeniería Informática enfocado en el desarrollo Front
 ## 🛠️ Tech Stack
 
 ### Habilidades Core (Uso constante)
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -51,7 +49,7 @@ Hola, soy estudiante de Ingeniería Informática enfocado en el desarrollo Front
 </p>
 
 ### En Aprendizaje / Fundamentos Académicos
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Data_Analytics-4F46E5?style=flat-square" alt="Data Analytics" />
   <img src="https://img.shields.io/badge/Responsive_Design-7C3AED?style=flat-square" alt="Responsive Design" />
@@ -118,15 +116,6 @@ Sitio web personal desarrollado para presentar mis habilidades técnicas, proyec
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=agustinAriel&bg_color=0d1117&color=7c3aed&line=a78bfa&point=ffffff&area=true&hide_border=false&border_color=21262d" alt="Activity Graph" />
 </div>
 
----
-
-## 🐍 Snake de Contribuciones
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/agustinAriel/agustinAriel/output/github-contribution-grid-snake.svg" alt="GitHub Outline Snake" />
-</div>
-
----
 
 ## 🎯 Foco Actual
 
